@@ -1,0 +1,2 @@
+API_PUBLIC = 'YeHieDEg4lkZFhu5KJ'
+API_PRIVATE = '8wycetCLttSS2NplE9gUbIu75ufqKNckKeqJ'

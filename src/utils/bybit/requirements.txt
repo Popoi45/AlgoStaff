@@ -1,0 +1,4 @@
+requests
+ujson
+websocket-client
+aiohttp

@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/algodz/DzWeb",
+        "./src/utils",
+        "./src/utils/api"
+    ]
+}
